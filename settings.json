@@ -1,0 +1,218 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker", //Operator Mono Dark Theme    One Dark Pro Monokai Darker
+    "latex-workshop.view.pdf.viewer": "tab",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.folders.color": "#42a5f5",
+    "material-icon-theme.saturation": 0.8,
+    "material-icon-theme.activeIconPack": "react_redux",
+    "editor.fontFamily": "Operator Mono Lig Light", //Fira Code, Operator Mono Light
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro Monokai Darker]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.other.attribute-name",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "support.type, support.class",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "emphasis",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "strong",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": [
+                        "entity.other.attribute-name.html",
+                        "entity.other.attribute-name.tag.jade",
+                        "entity.other.attribute-name.tag.pug"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "markup.underline",
+                    "settings": {
+                        "fontStyle": "underline"
+                    }
+                },
+                {
+                    "scope": "markup.bold",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.heading",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.italic",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "storage",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "keyword.control",
+                    "settings": {
+                        "foreground": "#C084C0",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "keyword.operator.expression.delete",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "name": "this.self",
+                    "scope": "variable.language",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "string",
+                    "settings": {
+                        "foreground": "#f0bf8e"
+                    }
+                },
+                {
+                    "scope": "variable.parameter",
+                    "settings": {
+                        "foreground": "#B6BBBB"
+                    }
+                },
+
+            ]
+            
+        },
+        "[One Dark Pro Darker]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.other.attribute-name",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "support.type, support.class",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "emphasis",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "strong",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": [
+                        "entity.other.attribute-name.html",
+                        "entity.other.attribute-name.tag.jade",
+                        "entity.other.attribute-name.tag.pug"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "markup.underline",
+                    "settings": {
+                        "fontStyle": "underline"
+                    }
+                },
+                {
+                    "scope": "markup.bold",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.heading",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.italic",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "storage",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "keyword.control",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "keyword.operator.expression.delete",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "name": "this.self",
+                    "scope": "variable.language",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                }
+            ]
+            
+        }
+    }
+}
+
